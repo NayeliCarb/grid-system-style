@@ -19,11 +19,12 @@ footer{
 	margin: 0;
 	color: #fff;
 	border-bottom: solid #333 1px;
-	background: #610B38;
+	background-image: url("http://eskipaper.com/images/cool-tumblr-wallpaper-1.jpg");
+	background-size: 30% ;
 	margin-top: 0px;
 }
 .logo{
-	width: 80px;
+	width: 180px;
 	height: 80px;
 }
 nav ul{
@@ -80,8 +81,8 @@ nav a:hover{
 	background-color: #F6CEEC;
 }
 .back1{
-	background-image: url("http://4.bp.blogspot.com/-Eksj-rvdLm0/VOydjnLsXGI/AAAAAAACZUE/g8sxbRZfrbM/s1600/923623gif.gif");
-	background-size: 120%;
+	background-image: url("https://40.media.tumblr.com/tumblr_mczqvz2B7n1rijbyfo1_500.jpg");
+	background-size: 90%;
 }
 .titimg{
 	display: inline-block;
