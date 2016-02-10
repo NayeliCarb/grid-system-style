@@ -78,7 +78,8 @@ nav a:hover{
 
 }
 .back{
-	background-color: #F6CEEC;
+	background-image: url("http://quotego.biz/wp-content/uploads/2014/08/flowers-tumblr-quotes---cool-flower-backgrounds-tumblr-hd-wallpapers---flower-wallpaper-tumblr-wallpaper-hd.jpg");
+	background-size: 100%;
 }
 .back1{
 	background-image: url("https://40.media.tumblr.com/tumblr_mczqvz2B7n1rijbyfo1_500.jpg");
@@ -135,9 +136,7 @@ nav a:hover{
 }
 #ico1{
 	width: 13px;
-	height: 13px;
-	
-	
+	height: 13px;	
 }
 .colcont{
 	color: #013ADF;
@@ -148,7 +147,7 @@ nav a:hover{
 	margin-bottom: 10px;
 }
 .colcont1{
-	margin-right: 50px;
+	margin-right: 70px;
 }
 .texto{
 	color: #585858;
